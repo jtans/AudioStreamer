@@ -26,5 +26,7 @@
 	<true/>
 	<key>NSMainNibFile</key>
 	<string>MainWindow</string>
+	<key>UILaunchStoryboardName</key>
+	<string>Launch Screen</string>
 </dict>
 </plist>
